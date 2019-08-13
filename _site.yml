@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Instadiagramm"
+  left:
+    - text: "Main Page"
+      href: index.html
+    - text: "Impressum"
+      href: about.html
