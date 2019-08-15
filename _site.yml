@@ -1,8 +1,4 @@
 name: "Instadiagram"
 navbar:
   title: "Instadiagram"
-  left:
-    - text: "Main Page"
-      href: main.html
-    - text: "About us"
-      href: about.html
+  href: index.html
