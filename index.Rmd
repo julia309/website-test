@@ -9,7 +9,7 @@
 
 <a href="price_white.html"><img style="margin:12px 12px 12px 12px" alt="wordcloud" src="price_wine_white_square.png" width="250" height="250"> <a href="index.html"><img border="0" alt="wine" src="wine.jpg" width="250" height="250"> <a href="price_red.html"><img style="margin:12px 12px 12px 12px" alt="wine" src="price_wine_red_square.png" width="250" height="250">
 
-<a href="wordcloud_white.html"><img style="margin:12px 12px 12px 12px" alt="wordcloud" src="wordcloud_white_square.png" width="250" height="250"> <a href="index.html"><img border="0" alt="wine" src="wine.jpg" width="250" height="250"> <a href="wordcloud_red.html"><img style="margin:12px 12px 12px 12px" alt="wine" src="wordcloud_red_square.png" width="250" height="250">
+<a href="wordcloud_white.html"><img style="margin:12px 12px 12px 12px" alt="wordcloud" src="wordcloud_white_square.png" width="250" height="250"> <a href="index.html"><img border="0" alt="wine" src="wine_quote.png" width="250" height="250"> <a href="wordcloud_red.html"><img style="margin:12px 12px 12px 12px" alt="wine" src="wordcloud_red_square.png" width="250" height="250">
 
 
 <a href="ramen_numbers.html"><img style="margin:12px 12px 12px 12px" alt="wordcloud" src="ramen_numbers_square.png" width="250" height="250"> <a href="ramen_numbers_asia.html"><img border="0" alt="wine" src="ramen_numbers_asia_square.png" width="250" height="250"> <a href="ramen_rating_asia.html"><img style="margin:12px 12px 12px 12px" alt="wine" src="ramen_rating_asia_square.png" width="250" height="250">
