@@ -6,4 +6,4 @@
 <br>
 
 
-<img border="0" alt="map" src="ramen_waffle_final.png" width="600" height="400"><img border="0" alt="text" src="text1.png" width="200" height="400">
+<img border="0" alt="map" src="ramen_waffle_final.png" width="600" height="400"><img style="margin:20px 20px 20px 20px" alt="text" src="text5.1.png" width="200" height="400">
